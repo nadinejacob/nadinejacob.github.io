@@ -1,0 +1,94 @@
+h1 {
+    color: #ce7676;
+    font-size: 2em
+}
+
+h3 {
+    color: #f0b774;
+    font-size: 1.35em
+}
+
+#bullet {
+    margin-top: 5em
+}
+
+.pic {
+    border-radius: 50%;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
+
+h6 {
+    color: #6f6f6f;
+}
+
+#Education {
+    margin-top: 2em;
+    margin-bottom: 2em
+}
+
+#year1 {
+    margin-top: 2em
+}
+
+#wr {
+    margin-top: 2em
+}
+
+#Seminars {
+    margin-bottom: 2em;
+    margin-top: 2em
+}
+
+#left {
+    background-color: antiquewhite;
+    height:100vh
+}
+
+#right {
+    padding-left:30em;
+    background-color: cornsilk
+  
+}
+
+li {
+    list-style: none;
+}
+
+#References {
+    margin-top: 2em;
+    margin-bottom: 5em
+}
+
+#college {
+    margin-top:2em
+}
+
+#activies {
+    margin-top: 2em;
+    margin-bottom:2em
+}
+
+#secretary {
+    margin-bottom:2em 
+}
+
+#camp {
+    margin-top:2em;
+    margin-bottom:2em
+}
+
+#paper {
+    margin-top:2em;
+    margin-bottom:2em
+}
+
+#mom {
+    margin-top:2em;
+    margin-bottom:2em
+}
+
+#wyd {
+    margin-top:2em
+}
